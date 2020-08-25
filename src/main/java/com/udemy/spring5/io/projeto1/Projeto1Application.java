@@ -1,4 +1,4 @@
-package natan.io.projeto1;
+package com.udemy.spring5.io.projeto1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

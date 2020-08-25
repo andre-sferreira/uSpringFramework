@@ -1,4 +1,4 @@
-package natan.io.projeto1.entity;
+package com.udemy.spring5.io.projeto1.entity;
 
 import javax.persistence.*;
 
